@@ -1,0 +1,25 @@
+body{
+   background:url(cool.webp);
+    background-size: cover;
+}
+bady:hover{
+    background: scroll;
+    
+}
+.container{
+    color: rgb(176, 4, 102);
+    
+}
+.app{
+    background-color: blue;
+    background-size: cover;
+    color: white;
+}
+.table-responsive{
+    overflow-x: hidden;
+    outline-offset: 15px;
+    border-width: 2px;
+}
+.text-start{
+    overflow-x: hidden;
+}
